@@ -1,4 +1,4 @@
-HI
+First notegen note to sync to github!
 
 &nbsp;
 
@@ -8,7 +8,11 @@ and the notes are synced to github.
 
 &nbsp;
 
-Updated the github token. (seems the fine-grained token does not work)
+Updated the github token. (seems the fine-grained token does not work).
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
