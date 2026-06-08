@@ -12,8 +12,25 @@ Updated the github token. (seems the fine-grained token does not work).
 
 &nbsp;
 
-&nbsp;
+Illneedtocheckifafullaccesstokenisrequiredoriftheresanotherissuewiththecurrentsetup.
+
+
+|   |   |          |
+| ------ | ------ | ------------- |
+|   |   |          |
+|   |   |    |
+
 
 &nbsp;
 
+测试表格功能
+
+Illneedtocheckifafullaccesstokenisrequiredoriftheresanotherissuewiththecurrentsetup.
+
 &nbsp;
+
+Illneedtotestthesetupagaintoseeifthefullaccesstokenresolvesthesyncissueoriftheresanotherproblempreventingthenotesfromupdatingproperly. 
+
+中文编辑功能：
+
+IwillalsoneedtoverifyifthereareanyadditionalconfigurationstepsrequiredfortheChineseeditingfeaturetofunctioncorrectlywiththecurrentGitHubsetup.
